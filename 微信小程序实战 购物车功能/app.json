@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/shopcart/shopcart"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTextStyle": "white"
+  }
+}

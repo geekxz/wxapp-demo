@@ -1,0 +1,28 @@
+/**app.wxss**/
+
+page {
+  height: 100%;
+  background: #fff;
+  font-family: -apple-system-font, Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 32rpx;
+  line-height: 1.42857;
+}
+
+.container {
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  margin-bottom: 30rpx;
+}
+
+
