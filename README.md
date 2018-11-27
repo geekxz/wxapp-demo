@@ -3,7 +3,7 @@
 
 ### 1. 微信小程序实战 购物车功能
 
-![image](https://github.com/geekxz/wxapp-demo/blob/master/images/coujian.gif)
+![image](https://github.com/geekxz/wxapp-demo/blob/master/images/shopcar.gif)
 
 
 ### 2. 五星点评功能
