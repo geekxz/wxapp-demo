@@ -1,0 +1,9 @@
+{
+    "navigationBarBackgroundColor": "#FFF829",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "动画",
+    "backgroundColor": "white",
+    "enablePullDownRefresh": true,
+ 	"onReachBottomDistance": 50
+
+}

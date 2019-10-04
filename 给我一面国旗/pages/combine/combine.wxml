@@ -1,0 +1,6 @@
+<view >
+  <canvas  class="myCanvas" canvas-id="myCanvas" style="margin-top:50px;height:200px;;width:100%; margin-left:16%"/>
+  <button bind:tap="savePic"  class='save'>保存至相册</button>
+
+  
+</view>

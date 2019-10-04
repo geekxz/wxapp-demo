@@ -1,0 +1,27 @@
+<!--start.wxml-->
+<import src="../temp/a16/a16.wxml"/>
+<view class="container">
+  <view class="remind-box" wx:if="{{remind}}">
+    <block>
+      <template is="animation" data="{{loadingHidden}}"/>
+    </block>
+  </view>
+  
+  <block wx:else>
+    <image class="title" src="../../image/title.png"></image>
+    <view class="content">
+      <view class="hd" style="transform:rotateZ({{angle}}deg);">
+        <open-data class="logo" type="userAvatarUrl"></open-data>
+        <image class="wave" src="/static/images/more/wave.png" mode="aspectFill"></image>
+        <image class="wave wave-bg" src="/static/images/more/wave.png" mode="aspectFill"></image>
+      </view>
+      <view class="bd">
+         <image class="smalltitle" src="/static/images/more/confirm-word1.png"></image>
+        <view class="confirm-btn">
+          <button open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="onGotUserInfo">立即体验</button>
+        </view>
+        <view class="copyright">© {{year}} 极客小寨<text >OkYoung团队</text> 倾情出品</view>
+      </view>
+    </view>
+  </block>
+</view>

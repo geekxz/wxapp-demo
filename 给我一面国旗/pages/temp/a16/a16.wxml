@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<template name="animation">
+	<view id="loading" hidden="{{loadingHidden}}">
+		<view id="loading-center">
+			<view id="loading-center-absolute">
+				<view class="object" id="object_one"></view>
+				<view class="object" id="object_two"></view>
+				<view class="object" id="object_three"></view>
+				<view class="object" id="object_four"></view>
+			</view>
+		</view>
+	</view>
+</template>

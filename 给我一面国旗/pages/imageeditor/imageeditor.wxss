@@ -1,0 +1,51 @@
+.container{
+  height:300px;
+  width:100%;
+}
+.bg{
+  position: absolute;
+  z-index:0;
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+}
+button{
+  margin-top:10px;
+
+}
+.hat{ 
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border: dashed 2px yellow;
+  top:0px;
+}
+.handle,.cancel{
+  position: absolute;
+  z-index: 1;
+  width:20px;
+  height:20px;
+}
+.scrollView{
+   width: 100%; 
+   position: absolute;
+   bottom: 5px;
+   white-space: nowrap;
+   background: -webkit-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));
+}
+.imgList{
+  height: 70px;
+  width: 70px;
+  border:2px solid  #3cdaff;
+  margin: 5px;
+}
+
+.sure{
+  color: #ffffff;
+  font-family: "仿宋";
+  border-radius: 55px;
+   background: -webkit-linear-gradient(top left, #3cdaff, #507cff); 
+   width: 80%;
+   margin-top: 34px;
+}
+

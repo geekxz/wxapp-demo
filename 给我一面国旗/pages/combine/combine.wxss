@@ -1,0 +1,14 @@
+/* pages/combine/combine.wxss */
+
+.save{
+    color: #ffffff;
+  font-family: "仿宋";
+  border-radius: 55px;
+   background: -webkit-linear-gradient(top left, #3cdaff, #507cff); 
+   width: 80%;
+   margin-top: 34px;
+
+}
+
+
+
