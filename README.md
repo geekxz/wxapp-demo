@@ -20,7 +20,8 @@
 ![image](https://github.com/geekxz/wxapp-demo/blob/master/images/coujian.gif)
 
 
-### 4. 扫码发现更多功能
+
+### 4. 给我一面国旗
 
 
-![image](https://github.com/geekxz/wxapp-demo/blob/master/images/anli.jpg)
+![image](https://github.com/geekxz/wxapp-demo/blob/master/images/guoqi.gif)
