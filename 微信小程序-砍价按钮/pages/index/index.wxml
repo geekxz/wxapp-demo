@@ -1,0 +1,11 @@
+<!-- 
+  - Created by 陈东东
+  - Author: 陈东东	<13298176895@163.com>
+  - 微信公号: 极客小寨工作室
+  - Date: 2020/4/15
+  - Time: 19:40 
+-->
+<!--index.wxml-->
+<view class="zui-box">  
+  <button class='zui-btn' animation="{{animationData}}">喊好友砍一刀</button>
+</view>

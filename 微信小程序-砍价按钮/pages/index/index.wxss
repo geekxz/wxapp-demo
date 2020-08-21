@@ -1,0 +1,24 @@
+/**
+ * Created by 陈东东
+ * Author: 陈东东	<13298176895@163.com>
+ * 微信公号: 极客小寨工作室
+ * Date: 2020/4/15
+ * Time: 19:40
+ **/
+/**index.wxss**/
+.zui-box{
+  width: 92%;
+  margin: 0 auto;
+}
+.zui-box button{
+  padding: 0rpx;
+}
+.zui-btn{
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  margin-top: 100rpx;
+  background: #ffcc01;
+  border-radius: 60rpx;
+  color: red;
+}
